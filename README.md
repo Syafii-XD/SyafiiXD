@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @SyafiiXD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+1 {+} Author = Muhammad Syafi'i
 
-<!---
-SyafiiXD/SyafiiXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+2 {+} Facebook = Fikri.sinaha
+
+
+
+3 {+} Wa = 085275729097
+
+
+
+4 {+} Wellcome Tou Medan
