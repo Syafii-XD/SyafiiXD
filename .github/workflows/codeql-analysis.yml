@@ -29,10 +29,10 @@ jobs:
       contents: read
       security-events: write
 
-    strategy:
+     strategi: Syafii-XD
       fail-fast: false
-      matrix:
-        language: [  ]
+      matrix: coding=utf-8
+        language: [ main ] 
         # CodeQL supports [ 'cpp', 'csharp', 'go', 'java', 'javascript', 'python', 'ruby' ]
         # Learn more about CodeQL language support at https://git.io/codeql-language-support
 
