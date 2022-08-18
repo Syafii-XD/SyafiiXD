@@ -3,17 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+SYAFII-XD+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+SYAFII-XD+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
 
-<!DOCTYPE html>
-<html>
- <head>
-  <title>Atribut Direction di Tag Marquee</title>
- </head>
- <body>
-  <marquee direction="right">SELAMAT DATANG BOSKUH</marquee>
-  <marquee direction="left">ADA YANG BISA SAYA BANTU</marquee>
- </body>
-</html>
-
 ![Alt text](https://4.bp.blogspot.com/-BIKuE9lEooY/VlMsbY0yM0I/AAAAAAAADmk/n2YPTXUSdmk/s1600/animasi-bergerak-lucu-dan-keren31.gif)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
