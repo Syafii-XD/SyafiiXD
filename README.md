@@ -1,4 +1,3 @@
-
 <img src="https://2.bp.blogspot.com/-j--2prnQYQY/VlMsc1LgIMI/AAAAAAAADnE/sMZ_j-KKF_w/s1600/gambar-animasi-kuda-bergerak-main-gitar.gif" width="25"> 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 GitHub 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp; <img src="https://2.bp.blogspot.com/-j--2prnQYQY/VlMsc1LgIMI/AAAAAAAADnE/sMZ_j-KKF_w/s1600/gambar-animasi-kuda-bergerak-main-gitar.gif" width="25">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+SYAFII-XD+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+SYAFII-XD+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
@@ -139,20 +138,4 @@
 <a href="https://github.com/Syafii-XD/Boruto.git"><img title="Boruto" src="https://github-readme-stats.vercel.app/api/pin/?username=Syafii-XD&repo=Boruto&theme=gotham"></a>
 
 
-<a href="https://github.com/Syafii-XD/fikri.git"><img title="fikri" src="https://github-readme-stats.vercel.app/api/pin/?username=Syafii-XD&repo=cow3&theme=gotham"></a>
-
-
-<a href="https://github.com/Syafii-XD/Brute-fb.git"><img title="Brute-fb" src="https://github-readme-stats.vercel.app/api/pin/?username=Syafii-XD&repo=cow3&theme=gotham"></a>
-
-
-<a href="https://github.com/Syafii-XD/force-fb.git"><img title="force-fb" src="https://github-readme-stats.vercel.app/api/pin/?username=Syafii-XD&repo=cow3&theme=gotham"></a>
-
-
-<a href="https://github.com/Syafii-XD/facebook-cracker.git"><img title="facebook-cracker" src="https://github-readme-stats.vercel.app/api/pin/?username=Syafii-XD&repo=cow3&theme=gotham"></a>
-
-
-
-<a href="https://github.com/Syafii-XD/Drank.git"><img title="Drank" src="https://github-readme-stats.vercel.app/api/pin/?username=Syafii-XD&repo=cow3&theme=gotham"></a>
-
-
-<a href="https://github.com/Syafii-XD/widiya.git"><img title="widiya" src="https://github-readme-stats.vercel.app/api/pin/?username=Syafii-XD&repo=cow3&theme=gotham"></a>
+<a href="https://github.com/Syafii-XD/fikri.git"><img title="fikri" src="https://github-readme-stats.vercel.app/api/pin/?username=Syafii-XD&repo=fikri&theme=gotham"></a>
