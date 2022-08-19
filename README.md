@@ -141,7 +141,7 @@
 <a href="https://github.com/Syafii-XD/fikri.git"><img title="fikri" src="https://github-readme-stats.vercel.app/api/pin/?username=Syafii-XD&repo=fikri&theme=gotham"></a>
 
 
- href="https://github.com/Syafii-XD/fikri.git"><img title="pepek" src="https://github-readme-stats.vercel.app/api/pin/?username=Syafii-XD&repo=pepek&theme=gotham"></a>
+ href="https://github.com/Syafii-XD/pepek.git"><img title="pepek" src="https://github-readme-stats.vercel.app/api/pin/?username=Syafii-XD&repo=pepek&theme=gotham"></a>
  
  
-  href="https://github.com/Syafii-XD/fikri.git"><img title="Ratu" src="https://github-readme-stats.vercel.app/api/pin/?username=Syafii-XD&repo=Ratu&theme=gotham"></a>
+  href="https://github.com/Syafii-XD/Ratu.git"><img title="Ratu" src="https://github-readme-stats.vercel.app/api/pin/?username=Syafii-XD&repo=Ratu&theme=gotham"></a>
